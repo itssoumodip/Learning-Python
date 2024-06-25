@@ -1,0 +1,3 @@
+import soumodip
+
+soumodip.welcome()
